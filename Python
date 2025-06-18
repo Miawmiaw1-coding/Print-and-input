@@ -1,0 +1,6 @@
+//only print
+print("namaku sugeng")
+
+//print+input
+jawaban = input("nama kamu siapa : ")
+print("ohhh nama kamu", jawaban)
