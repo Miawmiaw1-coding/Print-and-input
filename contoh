@@ -1,0 +1,6 @@
+print("halooo, selamat datang di restoran udang!")
+jawaban = input("anda harus menulis nama anda terlebih dahulu! ")
+jawaban2 = input("anda mau pesan apa? ")
+
+print("\nnama =", jawaban)
+print("pesanan =", jawaban2)
